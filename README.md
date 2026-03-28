@@ -14,7 +14,7 @@ Features:
 How It Works:
 
 1- Frontend:  
-   Built with HTML/JS, allows users to upload images.
+   Built with React, Vite, and HTML/JS, allows users to upload images.
 2- Backend:  
    Runs in Google Colab:
    - Hosts the model
