@@ -210,7 +210,7 @@ export default function SkinScanAI() {
                 Your skin, <em>understood</em>
               </h1>
               <p className="ss-hero-sub">
-               Upload a photo of your skin to check for signs of acne, eczema, or just confirm everything looks good.
+               Uploa a photo of your skin to check for signs of acne, eczema, or just confirm everything looks good.
               </p>
             </div>
 
